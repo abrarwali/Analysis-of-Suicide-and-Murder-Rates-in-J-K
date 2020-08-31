@@ -8,3 +8,6 @@ Suicide cases are significantly more common in J&K than there are Murder cases.
   Matplotlib
   
   Pandas
+
+# Result / Visualization 
+![JK Suicides vs Murders ](https://github.com/abrarwali/Analysis-of-Suicide-and-Murder-Rates-in-J-K/blob/master/Jk_Murders_Suicides.png)
