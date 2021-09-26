@@ -2,7 +2,6 @@
 
 The Analysis of the two data sets "Crime in India" and "Suicide Rates in India" for the state of Jammu and Kashmir taken from datadotworld.
 
-Suicide cases are significantly more common in J&K than there are Murder cases.
 
 # Tools Used
   Matplotlib
